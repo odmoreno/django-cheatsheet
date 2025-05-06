@@ -1,0 +1,6 @@
+# 🧠 Django ORM Lookup Cheat Sheet
+
+This repo contains a quick reference for Django's ORM lookups, including filters for relationships, booleans, dates, and more.
+
+- View online: [markdown](./django_orm_lookup_cheat_sheet.md)
+- Download PDF: [cheat sheet PDF](./django_orm_lookup_cheat_sheet.pdf)
